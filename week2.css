@@ -3,7 +3,7 @@ body {
 }
 
 div.container {
-    width: 160px;
+    width: 100px;
     min-height: 100px;
     background: #e4cff9;
     margin: 40px auto 0 auto;
